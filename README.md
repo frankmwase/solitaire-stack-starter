@@ -2,6 +2,8 @@
 
 A high-performance full-stack starter kit featuring "Solitaire" style Card UI and Kanban Board patterns.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/frankmwase/solitaire-stack-starter&env=DATABASE_URL,JWT_SECRET,CLOUDINARY_URL)
+
 ## Quick Start (Local Development)
 
 ### Prerequisites
